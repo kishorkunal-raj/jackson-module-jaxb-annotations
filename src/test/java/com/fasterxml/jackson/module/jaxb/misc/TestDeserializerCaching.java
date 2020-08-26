@@ -1,5 +1,6 @@
 package com.fasterxml.jackson.module.jaxb.misc;
 
+import com.fasterxml.jackson.databind.Module;
 import com.fasterxml.jackson.core.*;
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.deser.BeanDeserializer;
